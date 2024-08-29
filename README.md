@@ -93,11 +93,13 @@ Test the timers with the physical push buttons and observe the LEDs or other out
 ##   Outputs:
 
 ON-Delay Timer: 
-The output LED or indicator should turn on after a specified delay (e.g., 5 seconds) once the input is activated.
+The output LED or indicator should turn on after a specified delay (e.g., 5 seconds) once the input is activated.</br>
+
 OFF-Delay Timer: 
-The output should remain on for the specified delay after the input is deactivated, and then it should turn off.
+The output should remain on for the specified delay after the input is deactivated, and then it should turn off.</br>
+
 Retentive Timer: 
-The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.
+The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.</br>
 
 ## Simulation Screenshots 
 

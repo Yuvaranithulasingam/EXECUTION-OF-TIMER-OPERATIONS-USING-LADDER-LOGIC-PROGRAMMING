@@ -109,19 +109,10 @@ The output should turn on after the accumulated time reaches the preset value, a
 
 #### OFF-Delay Timer: 
 
+![image](https://github.com/user-attachments/assets/6776fda6-4240-41f1-b33c-9ff43dc1518d)
 
 
-
-
-
-
-
-
-
-
-
-
-# Results:
+## Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
 The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic.
 The experiment confirms the practical application of timers in controlling process sequences and managing time-dependent operations in industrial automation.
